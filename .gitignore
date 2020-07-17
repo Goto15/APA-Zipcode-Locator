@@ -1,8 +1,9 @@
 # PyCharm files and directories
 .idea/
 
-# Addresses file
+# Address and Zip Code files
 addresses.csv
+zip_codes.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
